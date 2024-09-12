@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drewcmarkham
-- 👀 I’m interested in programming, breakdancing, skiing, dirtbiking, gaming
-- 🌱 I’m currently learning web development & Pico-8 game design
-- 💞️ I’m looking to collaborate on anything to help me learn more about languages like html, css, javascript, python, and pico-8
+- 👀 I’m interested in mma, breakdancing, skiing, and track
+- 🌱 I’m currently learning Java in AP Computer Sciences A
+- 💞️ I’m looking to collaborate on anything to help me learn more about Java
 - 📫 How to reach me drew.markham646@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been programming since January 2023!
